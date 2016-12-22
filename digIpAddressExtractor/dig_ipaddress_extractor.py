@@ -9,7 +9,7 @@ from sets import Set
 ################################################
 
 class DIGIpAddressExtractor(object):
-    """Extractor of email addresses from text.
+    """Extractor of ipaddress addresses from text.
 
     Users of this class should call DIGIpAddressExtractor.extract_ipaddress(), see documentation.
     """
